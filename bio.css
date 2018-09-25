@@ -1,0 +1,14 @@
+/* bio.css */
+
+body {
+        word-wrap: normal;
+}
+
+p {
+        max-width: 40%;
+        font-size: 24px;
+}
+
+h1 {
+        font-size: 36px;
+}
