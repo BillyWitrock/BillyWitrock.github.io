@@ -1,0 +1,36 @@
+/* CSS file for resume.html */
+
+body{
+        background-color: #F0F0F0;
+        word-wrap: normal;
+        font-size: 24px;
+}
+
+p {
+        color: #282828;
+}
+
+h1 {
+        color: darkblue;
+        font-weight: bold;
+        font-size: 80px;
+}
+
+h4 {
+        text-indent: 50px;
+}
+
+ul {
+        list-style-position: inside;
+        text-indent: 55px;
+        color: #282828;
+}
+
+.jobtitle {
+        font-style: italic;
+}
+
+.section_titles {
+        color: darkblue;
+        margin: 5px;
+}
