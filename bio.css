@@ -5,8 +5,9 @@ body {
 }
 
 p {
-        max-width: 40%;
+        max-width: 1000px;
         font-size: 24px;
+        font-family: "Comic Sans MS";
 }
 
 h1 {
